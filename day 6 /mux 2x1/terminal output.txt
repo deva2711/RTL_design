@@ -1,0 +1,7 @@
+in = 00  sel = x  out = 0
+in = 00  sel = 1  out = 0
+in = 01  sel = 1  out = 0
+in = 01  sel = 0  out = 1
+in = 01  sel = 1  out = 0
+in = 10  sel = 1  out = 1
+in = 01  sel = 0  out = 1
