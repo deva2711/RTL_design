@@ -2,7 +2,7 @@
 Developer    : Devang vekariya
 Module       : half subtractor 
 Institute    : NIT Kurukshetra
-Date created : 04/10/2023
+Date created : 05/10/2023
 ********************************************************/
 
 // full adder module
