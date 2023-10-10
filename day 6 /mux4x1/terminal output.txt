@@ -1,0 +1,10 @@
+in = 0000  sel = xx  out = x
+in = 0100  sel = 01  out = 0
+in = 1001  sel = 11  out = 1
+in = 1101  sel = 01  out = 0
+in = 0101  sel = 10  out = 1
+in = 0001  sel = 01  out = 0
+in = 0110  sel = 01  out = 1
+in = 1101  sel = 00  out = 1
+in = 1001  sel = 10  out = 0
+in = 0101  sel = 10  out = 1
