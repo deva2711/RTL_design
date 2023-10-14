@@ -23,3 +23,27 @@ day 4 ------->
                (i) half adder three modeling techniques
 
                (ii)full adder three modeling techniques
+
+day 5 -------->
+
+                (i) half subtractor 
+
+                (ii) full subtractor 
+
+day 6 -------->
+
+                (i)   Mux 2x1  -- using assign  
+                (ii)  MUx 4x1  -- using case
+                (iii) Mux 8x1  -- using two 4x1 and one 2x1 
+
+day 7 -------->
+
+                (i)  Encoder 4x2  -- using if else
+                (ii) Encoder 8x3  -- using case 
+                (iii)Decoder 3x8  -- using case
+                (iv) Decoder 5x32 -- using bit select 
+
+day 8 -------->
+
+               (i) Adder cum subtracctor (in one design we can add as well as subtractor )
+
