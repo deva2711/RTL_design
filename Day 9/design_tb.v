@@ -10,7 +10,7 @@ module tb;
     begin
   a = 6 ; b = 7 ;
   #2 a =7 ,b= 17 ;
-  #5 b=6 , c= 16;
+  #5 a=6 , b= 16;
     end
 endmodule 
 
