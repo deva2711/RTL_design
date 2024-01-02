@@ -3,14 +3,24 @@ module tb;
   wire [31:0] sum ;
 
 
-  top_module (a,b,sum);
+  top_module dut(a,b,sum);
 
 
   initial
     begin
-  a = 6 ; b = 7 ;
-  #2 a =7 ,b= 17 ;
-  #5 a=6 , b= 16;
+    a = 6 ; b = 7 ;
+  #5 a =7 ;b= 17 ;
+  #5 a=6 ; b= 16;
+  #50 $finish;
     end
+  
+  initial
+  begin
+    
+    $monitor("x=%b y=%b C_in=%b  ",a,b,sum);
+    $dumpfile("dump.vcd");
+    $dumpvars ;
+    
+  end
+  
 endmodule 
-
