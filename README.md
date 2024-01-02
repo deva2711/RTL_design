@@ -38,12 +38,17 @@ day 6 -------->
 
 day 7 -------->
 
-                (i)  Encoder 4x2  -- using if else
-                (ii) Encoder 8x3  -- using case 
-                (iii)Decoder 3x8  -- using case
-                (iv) Decoder 5x32 -- using bit select 
+               (i)  Encoder 4x2  -- using if else
+               (ii) Encoder 8x3  -- using case 
+               (iii)Decoder 3x8  -- using case
+               (iv) Decoder 5x32 -- using bit select 
 
 day 8 -------->
 
                (i) Adder cum subtracctor (in one design we can add as well as subtractor )
+
+day 9 --------->
+
+              (i) carry select adder 
+    
 
